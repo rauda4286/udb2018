@@ -1,0 +1,10 @@
+-Beta de sable laser
+
+Descripcion:
+Utliliza tu sable laser para adivinar de que lado vendra el disparo laser, gana todo el puntaje posible antes de que tu vida llege a 0
+
+Plataforma: Android studio
+
+Categoria: Simulacion
+
+Tecnologia: Sensores
